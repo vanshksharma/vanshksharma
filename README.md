@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me 
-- Email-vns.vansh123@gmail.com
-- Linkedin-https://www.linkedin.com/in/vansh-kumar-sharma-8a7a84215/
+- Email- vns.vansh123@gmail.com
+- Linkedin- https://www.linkedin.com/in/vansh-kumar-sharma-8a7a84215/
 
 <!---
 vanshksharma/vanshksharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
